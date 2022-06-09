@@ -8,6 +8,6 @@
 - 타입스크립트 타입 레벨 프로그래밍 <https://velog.io/@gomjellie/You-dont-know-type>
 - Application State Management with React <https://kentcdodds.com/blog/application-state-management-with-react>
 - Thinking in GraphQL <https://blog.cometkim.kr/posts/thinking-in-graphql-ko>
-
+- React hooks: not magic, just arrays <https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e>
 ## Algorithm
 - 펜윅 트리 <https://www.acmicpc.net/blog/view/21>
