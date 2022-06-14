@@ -9,5 +9,6 @@
 - Application State Management with React <https://kentcdodds.com/blog/application-state-management-with-react>
 - Thinking in GraphQL <https://blog.cometkim.kr/posts/thinking-in-graphql-ko>
 - React hooks: not magic, just arrays <https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e>
+- 모두를 위한 대수적 효과 <https://overreacted.io/ko/algebraic-effects-for-the-rest-of-us/>
 ## Algorithm
 - 펜윅 트리 <https://www.acmicpc.net/blog/view/21>
