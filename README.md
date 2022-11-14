@@ -14,6 +14,6 @@
 - Past, Present, and Future of React State Management https://leerob.io/blog/react-state-management
 - Understanding reacts key prop https://kentcdodds.com/blog/understanding-reacts-key-prop
 - The Rules of React https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f
-- https://velog.io/@superlipbalm/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior?utm_source=substack&utm_medium=email
+- https://velog.io/@superlipbalm/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior
 ## Algorithm
 - 펜윅 트리 <https://www.acmicpc.net/blog/view/21>
