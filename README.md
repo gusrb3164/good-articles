@@ -16,5 +16,6 @@
 - The Rules of React https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f
 - React Summary https://velog.io/@superlipbalm/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior
 - UI 런타임으로서의 React https://overreacted.io/ko/react-as-a-ui-runtime/
+- cjs, esm https://yceffort.kr/2020/08/commonjs-esmodules
 ## Algorithm
 - 펜윅 트리 <https://www.acmicpc.net/blog/view/21>
